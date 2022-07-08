@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24843157679",
+    "project_id": "flutter-map-352414",
+    "storage_bucket": "flutter-map-352414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24843157679:android:54e33ed7cedac5f0b3145a",
+        "android_client_info": {
+          "package_name": "com.example.course_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24843157679-dqj4d5asmoj8555dg2svgpao0cgfi44b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiNWQIQ7-Po-8T2BX5zjtbEKJOM4Ydl-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24843157679-dqj4d5asmoj8555dg2svgpao0cgfi44b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
